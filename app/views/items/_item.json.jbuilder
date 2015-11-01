@@ -1,0 +1,1 @@
+json.(item, :id, :name, :instructions)
