@@ -48,6 +48,8 @@ group :development, :test do
   gem "capybara"
   gem "database_cleaner"
   gem "selenium-webdriver"
+  gem 'teaspoon-jasmine'
+  gem 'phantomjs'
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
 
